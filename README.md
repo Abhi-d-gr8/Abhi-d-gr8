@@ -40,19 +40,9 @@ Active contributor to **GRASS GIS**.
 
 <hr style="border: 0.5px solid #2f2f2f;" />
 
-## Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Abhi-d-gr8&show_icons=true&hide_border=true&theme=dark&hide_rank=true"
-    alt="GitHub activity statistics"
-  />
-</p>
-
-<hr style="border: 0.5px solid #2f2f2f;" />
-
 <div align="center">
 
-[GitHub](https://github.com/Abhi-d-gr8) · Email
+[GitHub](https://github.com/Abhi-d-gr8) ·  
+[Email](mailto:abhimanyupg04@gmail.com)
 
 </div>
