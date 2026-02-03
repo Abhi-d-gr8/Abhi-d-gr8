@@ -31,9 +31,6 @@ I’m ~2200 rated on Chess.com. I enjoy deep position analysis and endgames—sk
 ![](https://nirzak-streak-stats.vercel.app/?user=Abhi-d-gr8&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-d-gr8&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abhi-d-gr8&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
