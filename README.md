@@ -1,6 +1,25 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Open-source systems software (notably GRASS GIS), a high-performance C chess engine, and data-driven analytics projects involving financial time series.<br><br>👯 I’m looking to collaborate on<br>Systems programming projects, competitive-programming–adjacent tooling, GIS/geospatial software, and performance-sensitive C/C++ or Python codebases.<br><br>🤝 I’m looking for help with<br>Designing maintainable architectures for large codebases, advanced testing strategies, and long-term ownership patterns in mature open-source projects.<br><br>🌱 I’m currently learning<br>Deeper internals of operating systems, search/optimization techniques, and how real-world systems evolve under scale, constraints, and review.<br><br>💬 Ask me about<br>Writing chess engines, bitboards and search optimizations, competitive programming strategies, contributing to open source, or building developer tools like Chrome extensions.<br><br>⚡ Fun fact<br>I’m ~2200 rated on Chess.com and enjoy analyzing engine evaluations and endgames almost as much as writing code.
 
+🔭 **I’m currently working on**  
+Open-source systems software (primarily GRASS GIS), a performance-oriented C chess engine, and data-driven analytics projects involving financial time series.
+
+👯 **I’m looking to collaborate on**  
+Systems programming projects, GIS/geospatial software, and performance-sensitive C/C++ or Python codebases with established testing, review, and maintenance practices.
+
+🤝 **I’m looking for help with**  
+Designing maintainable architectures for large, long-lived codebases, and understanding best practices around testing, releases, and long-term ownership in mature open-source projects.
+
+🌱 **I’m currently learning**  
+Operating-system internals, search and optimization techniques, and how real-world systems evolve under scale, constraints, and continuous review.
+
+💬 **Ask me about**  
+Contributing to GRASS GIS, chess engine implementation (bitboards, move generation, search optimizations), competitive programming, or building developer tooling such as Chrome extensions.
+
+🏁 **Competitive programming**  
+I’m an active competitive programmer with **1400+ problems solved** across platforms. I’m rated **Expert on Codeforces** and **Knight on LeetCode**, and I enjoy translating algorithmic thinking into robust, real-world systems.
+
+⚡ **Fun fact**  
+I’m ~2200 rated on Chess.com. I enjoy deep position analysis and endgames—skills that map well to systematic debugging, performance tuning, and reasoning about complex systems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhi-d-gr8/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhimanyupg04@gmail.com) 
