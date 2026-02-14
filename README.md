@@ -1,10 +1,10 @@
 # 💫 About Me:
 
 🔭 **I’m currently working on**  
-Open-source systems software (primarily GRASS GIS), a performance-oriented C chess engine, and data-driven analytics projects involving financial time series.
+Open-source systems software, a performance-oriented C chess engine, and data-driven analytics projects involving financial time series.
 
 👯 **I’m looking to collaborate on**  
-Systems programming projects, GIS/geospatial software, and performance-sensitive C/C++ or Python codebases with established testing, review, and maintenance practices.
+Systems programming projects, geospatial/GIS software, and performance-sensitive C/C++ or Python codebases with established testing, review, and maintenance practices.
 
 🤝 **I’m looking for help with**  
 Designing maintainable architectures for large, long-lived codebases, and understanding best practices around testing, releases, and long-term ownership in mature open-source projects.
@@ -13,7 +13,7 @@ Designing maintainable architectures for large, long-lived codebases, and unders
 Operating-system internals, search and optimization techniques, and how real-world systems evolve under scale, constraints, and continuous review.
 
 💬 **Ask me about**  
-Contributing to GRASS GIS, chess engine implementation (bitboards, move generation, search optimizations), competitive programming, or building developer tooling such as Chrome extensions.
+Open-source contributions, chess engine implementation (bitboards, move generation, search optimizations), competitive programming, or building developer tooling such as Chrome extensions.
 
 🏁 **Competitive programming**  
 I’m an active competitive programmer with **1400+ problems solved** across platforms. I’m rated **Expert on Codeforces** and **Knight on LeetCode**, and I enjoy translating algorithmic thinking into robust, real-world systems.
